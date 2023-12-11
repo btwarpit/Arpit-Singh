@@ -1,2 +1,2 @@
 # Arpit-Singh
-Hi from Git
+Hi from git
